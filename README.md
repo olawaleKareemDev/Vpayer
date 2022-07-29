@@ -1,2 +1,2 @@
 # Vpayer
-A boilerplate test app 
+A Django boilerplate test app 
